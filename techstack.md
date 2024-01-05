@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jimbrig/jimsportfolio](https://github.com/jimbrig/jimsportfolio)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|12/07/23 <br/>Report generated|
+|39<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -214,9 +214,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -231,9 +231,11 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.3.1|09/17/21|jimbrig |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.22.0|09/17/21|jimbrig |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.2.0|09/17/21|jimbrig |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|09/17/21|jimbrig |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|09/17/21|jimbrig |MIT|N/A|
 |[intersection-observer](https://www.npmjs.com/intersection-observer)|v0.12.0|09/17/21|jimbrig |W3C-20150513|N/A|
 |[jest-styled-components](https://www.npmjs.com/jest-styled-components)|v7.0.3|09/17/21|jimbrig |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.3|09/17/21|jimbrig |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|09/17/21|jimbrig |MIT|N/A|
 |[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|09/17/21|jimbrig |MIT|N/A|
 |[react-color](https://www.npmjs.com/react-color)|v2.19.3|09/17/21|jimbrig |MIT|N/A|
