@@ -2,7 +2,7 @@ repo_name: jimbrig/jimsportfolio
 report_id: b1be095179ec757f0349f319fc38a746
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:28:39+00:00'
+timestamp: '2024-02-29T18:58:46+00:00'
 requested_by: jimbrig
 provider: github
 branch: main
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/jimbrig/jimsportfolio
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.1.0
   open_source: true
@@ -151,7 +151,7 @@ tools:
   last_updated_by: jimbrig
   last_updated_on: 2021-09-17 20:20:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
